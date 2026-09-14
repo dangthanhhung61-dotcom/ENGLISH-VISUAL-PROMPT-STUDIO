@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/ENGLISH VISUAL PROMPT STUDIO/' ,
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
