@@ -1,0 +1,8 @@
+{
+  "name": "ENGLISH VISUAL PROMPT STUDIO MR KIEN V1.4",
+  "description": "Tạo prompt học liệu tiếng Anh tối ưu cho Canva Dream Lab",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
